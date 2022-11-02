@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/GUVI_Selenium_Project.iml" filepath="$PROJECT_DIR$/.idea/GUVI_Selenium_Project.iml" />
+      <module fileurl="file://D:/PycharmProjects/Guvi_main_bootcamp/.idea/Guvi_main_bootcamp.iml" filepath="D:/PycharmProjects/Guvi_main_bootcamp/.idea/Guvi_main_bootcamp.iml" />
+      <module fileurl="file://D:/PycharmProjects/Learnpythonguvi/.idea/Learnpythonguvi.iml" filepath="D:/PycharmProjects/Learnpythonguvi/.idea/Learnpythonguvi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../OOPS_Concept/.idea/OOPS_Concept.iml" filepath="$PROJECT_DIR$/../OOPS_Concept/.idea/OOPS_Concept.iml" />
+      <module fileurl="file://D:/PycharmProjects/PythonUnittest_POM/.idea/PythonUnittest_POM.iml" filepath="D:/PycharmProjects/PythonUnittest_POM/.idea/PythonUnittest_POM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../guru99/.idea/guru99.iml" filepath="$PROJECT_DIR$/../guru99/.idea/guru99.iml" />
+    </modules>
+  </component>
+</project>
